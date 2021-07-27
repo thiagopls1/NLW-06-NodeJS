@@ -1,6 +1,6 @@
 # NLW-06-NodeJS
 
-##Sobre
+## Sobre:
 
 Essa aplicação foi feita durante a Next Level Week de NodeJS da Rocketseat, trata-se de uma aplicação na qual o usuário pode elogiar outro usuário, atribuindo uma tag (que pode ser adicionada por um usuário admin) e uma descrição ao elogio. As ações dentro da aplicação podem ser feitas apenas com autenticação de token gerada no login.
 
