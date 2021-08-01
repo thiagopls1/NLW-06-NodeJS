@@ -17,3 +17,12 @@ Essa aplicação foi feita durante a Next Level Week de NodeJS da Rocketseat, tr
   - Pode fazer as mesmas ações de um usuário não admin;
   - Possui a permissão de criar tags para os elogios;
   - Pode registrar outros usuários
+
+## Frameworks
+
+- Nesta aplicação foi utilizado:
+  - Migrations
+  - Express
+  - Typeorm
+  - JWT
+  - Bcrypt
